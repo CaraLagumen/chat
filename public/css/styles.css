@@ -28,6 +28,14 @@ h1 {
     color: #F1F3FB;
 }
 
+h2 {
+    background: #7289DA;
+    padding: 24px;
+    color: #F1F3FB;
+    margin-bottom: 12px;
+    font-size: 32px;
+}
+
 label {
     display: block;
     font-size: 14px;
